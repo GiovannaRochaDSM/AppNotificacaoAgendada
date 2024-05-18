@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "662508541210",
+      "project_id": "app-notificacao-agendada-9692a",
+      "storage_bucket": "app-notificacao-agendada-9692a.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:662508541210:android:90782fca6b52d6ad1388a3",
+          "android_client_info": {
+            "package_name": "giovanna.rocha.machado.appnotificacao"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDIhCkU5rlaJd7uYuXlbGydyD_oEidjd50"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
